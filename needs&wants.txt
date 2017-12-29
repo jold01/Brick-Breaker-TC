@@ -1,5 +1,35 @@
+Premise of Game: The game will act similarly to brick breaker clones, but
+will instead change the color of each brick the ball hits, vs destroying
+the brick.
+
+It will be a multiplayer game that will be 2 v 2.
+Each player will have their own color. When the ball hits the player's
+paddle, the ball will become the player's color. When the ball touches
+the brick, the brick will change to be the same color as the ball. The goal
+of the game is to have as many bricks to be your color within the time
+limit.
+
+The time limit will be 15 seconds per round. At the end of the round,
+whoever has more bricks their color, will earn a point. After a set
+limiter of points, a player wins.
+
 NEEDS:
 
--
+-Online multiplayer support.
+-A timer for rounds
+-A counter for counting point amounts
+-A win condition
+-Basic graphics for the actually game
+-At least one play field to play on
 
 WANTS:
+
+-Controller configurer
+-Sound effects
+-Custom graphics and splash screens
+-Power-ups(hitting "special bricks that cause things to change. ie longer 
+paddle, ball increases speed, etc.)
+-Custom brick layout editor program that streamlines the production of
+player fields.
+
+
